@@ -24,7 +24,7 @@ Installation
 [Librarian](https://github.com/applicationsonline/librarian) is recommended to install this cookbook. In fact, it's recommended to install all your cookbooks! Within your `Cheffile`
 
 ```ruby
-cookbook 'monit', git: 'https://github.com/axsuul/cookbook-direnv'
+cookbook 'direnv', git: 'https://github.com/axsuul/cookbook-direnv'
 ```
 
 Recipes
