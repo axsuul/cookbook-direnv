@@ -1,5 +1,6 @@
 maintainer       "James Hu"
 maintainer_email "hello@james.hu"
+name             "direnv"
 license          "Apache 2.0"
 description      "Provides recipes for installing direnv."
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
